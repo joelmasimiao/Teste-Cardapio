@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(165, 42, 42, 0.938);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+ 
+    
+
+
+h1{
+    text-align:center ;
+
+}
+.parent{
+    text-align: center;
+    padding:30px;
+}
+
+
+#missao{
+
+     font-size: 20px;
+
+
+}
+em strong{
+    color:white
+}
+.itens{
+    font-style: italic;
+    display: inline-block;
+    font-size: large;
+    border-width: 100px;
+    border-style: ridge;
+    border-color: black;
+}
+.beneficios{
+    background-color: white;
+    text-align: center;
+    padding:50px;
+    
+}
+img{
+    width:100px;
+    height: 100px;
+}
+
+
+    
+   
+
+
+
